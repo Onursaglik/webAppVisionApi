@@ -67,12 +67,12 @@ export default function App() {
 
     const firebaseConfig = {
       apiKey: "",
-      authDomain: "goruntuislem.firebaseapp.com",
-      databaseURL: "https://goruntuislem-default-rtdb.firebaseio.com",
-      projectId: "goruntuislem",
-      storageBucket: "goruntuislem.appspot.com",
-      messagingSenderId: "135572784230",
-      appId: "1:135572784230:web:6cd4bc8d486f1749e3d9a7"
+      authDomain: "*.firebaseapp.com",
+      databaseURL: "*",
+      projectId: "*",
+      storageBucket: "*",
+      messagingSenderId: "*",
+      appId: "*"
     };
   
    
